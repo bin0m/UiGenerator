@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm audit fix:*)",
+      "Bash(npm install:*)",
+      "Bash(npm view:*)",
+      "Bash(npm audit:*)",
+      "mcp__playwright",
+      "Bash(node -e:*)",
+      "Bash(git stash:*)",
+      "Bash(npm run build:*)",
+      "WebFetch(domain:ai-sdk.dev)",
+      "Bash(python -c:*)",
+      "Bash(start:*)"
+    ]
+  }
+}
